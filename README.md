@@ -1,18 +1,4 @@
-<style>
-body {
-  font-family: Roboto;
-  font-weight: 200;
-  font-size: 14px;
-}
-
-td {
-  border: 1px solid #ccc;
-}
-
-thead {
-  background-color: #f2f2f2;
-}
-</style>
+<link rel="stylesheet" href="styles.css">
 
 `Table`
 
